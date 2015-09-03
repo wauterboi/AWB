@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "AnathemA/sprites/muzzle/anim_muzzle1_05"
+	"$additive" "1"
+	"$vertexcolor" 1
+	"$vertexalpha" "1"
+	"animatedTextureFrameRate" "0" 
+}

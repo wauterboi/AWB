@@ -1,0 +1,13 @@
+"Refract"
+{
+	"$model" 1
+	"$normalmap" "Overlays\scope_ref"
+ 	"$refractamount" "1"
+ 	"$bluramount" "0"
+	"$scale" "[1 1]"
+	"$RefractTintTexture" "Overlays\scope_tint"
+	"$translucent" 1
+	"$ignorez"     "1"
+	"$no_fullbright" "1"	
+}
+

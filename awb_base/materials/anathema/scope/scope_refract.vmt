@@ -1,0 +1,9 @@
+Refract
+{
+	$normalmap 	"anathema/scope/scope_test_refract"
+	$dudvmap 	"anathema/scope/scope_test_refract"
+	$refracttint 	"[1 1 1]"
+	$refractamount  "-.125"
+	$bluramount 	"1"
+
+}

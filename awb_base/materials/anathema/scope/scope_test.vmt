@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "anathema/scope/scope_test"
+	$translucent 1
+}
