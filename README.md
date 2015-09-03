@@ -1,4 +1,4 @@
-# AWB
+# Welcome to the AWB!
 Anathema Weapon Base for Garry's Mod 13
 
 This is an old project I've worked for years now. I've got no interest in doing much more with this and I'm providing it to the public as a potential base for advanced scripted weaponry.
@@ -12,6 +12,11 @@ What's it got?
 - Lua-based viewmodel animations
 - Things
 - Stuff
+- Example weapons/effects
+- Custom muzzle flashes (made by yours truly)
+- Custom tracers
+- Scope
+- Support for CS:S Shotgun animations
 
 Even if the networking is garbage or if it's full of other problems, chances are you can rip certain aspects out of this as you see fit. *I don't reccomend this for people who aren't up for fixing things.*
 
